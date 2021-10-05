@@ -18,3 +18,26 @@ public class Exercicio8Soletra {
 	}
 
 }
+
+ENGLISH!!!!
+
+# Spell
+Get a word and print it letter by letter.
+
+package controle;
+
+import javax.swing.JOptionPane;
+
+public class Exercise8Spell {
+
+	public static void main(String[] args) {
+
+		String get = JOptionPane.showInputDialog("Entre com a palavra:");
+
+		for(int changeletter = 0; changeletter < get.length(); changeletter ++) {
+			System.out.println(entrada.charAt(changeletter));
+		}
+
+	}
+
+}
