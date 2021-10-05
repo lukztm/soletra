@@ -14,9 +14,7 @@ public class Exercicio8Soletra {
 		for(int mudaletra = 0; mudaletra < entrada.length(); mudaletra ++) {
 			System.out.println(entrada.charAt(mudaletra));
 		}
-
 	}
-
 }
 
 ENGLISH!!!!
@@ -37,7 +35,5 @@ public class Exercise8Spell {
 		for(int changeletter = 0; changeletter < get.length(); changeletter ++) {
 			System.out.println(entrada.charAt(changeletter));
 		}
-
 	}
-
 }
