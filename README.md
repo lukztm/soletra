@@ -1,11 +1,10 @@
 # Soletra
 Programa pega uma palavra e imprime letra a letra.
 
-package controle;
 
-import javax.swing.JOptionPane;
+	import javax.swing.JOptionPane;
 
-public class Exercicio8Soletra {
+	public class Exercicio8Soletra {
 
 	public static void main(String[] args) {
 
@@ -15,18 +14,17 @@ public class Exercicio8Soletra {
 			System.out.println(entrada.charAt(mudaletra));
 		}
 	}
-}
+	}
 
 ENGLISH!!!!
 
 # Spell
 Get a word and print it letter by letter.
 
-package controle;
 
-import javax.swing.JOptionPane;
+	import javax.swing.JOptionPane;
 
-public class Exercise8Spell {
+	public class Exercise8Spell {
 
 	public static void main(String[] args) {
 
@@ -36,4 +34,4 @@ public class Exercise8Spell {
 			System.out.println(entrada.charAt(changeletter));
 		}
 	}
-}
+	}
