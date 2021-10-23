@@ -13,7 +13,7 @@ Programa pega uma palavra e imprime letra a letra.
 		for(int mudaletra = 0; mudaletra < entrada.length(); mudaletra ++) {
 			System.out.println(entrada.charAt(mudaletra));
 		}
-	}
+	    }
 	}
 
 ENGLISH!!!!
@@ -33,5 +33,5 @@ Get a word and print it letter by letter.
 		for(int changeletter = 0; changeletter < get.length(); changeletter ++) {
 			System.out.println(entrada.charAt(changeletter));
 		}
-	}
+	    }
 	}
